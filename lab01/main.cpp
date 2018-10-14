@@ -1,12 +1,11 @@
+#include <stu.h>
+#include <iostream>
+#include<QList>
 #include <QCoreApplication>
 #include<QDebug>
-#include<QVector>
-#include<QList>
 #include<QString>
-#include <iostream>
-#include <stu.h>
+#include<QVector>
 using namespace std;
-
 
 int main(int argc, char *argv[])
 {
