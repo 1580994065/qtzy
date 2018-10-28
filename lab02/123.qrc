@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>新建文件夹/icon1.jpg</file>
+        <file>新建文件夹/new.jpg</file>
+    </qresource>
+</RCC>
